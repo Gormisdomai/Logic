@@ -1,4 +1,5 @@
-
+-- Example usage
+-- truthTables $ parseL1 "((A&B)vC)"
 
 module Logic where
 
